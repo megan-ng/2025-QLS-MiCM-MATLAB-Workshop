@@ -1,20 +1,14 @@
 # Workshop name
 
 ## Overview
-<Add a brief description and objectives of the workshop here>
+This workshop is designed for participants who have a foundational understanding of programming and are interested in learning about image processing in MATLAB. The workshop will cover working with image data, segmenting and performing structural analyses on features of interest, and visualizing analysis results. By the end of this hands-on experience, participants will have a strong understanding of manipulating image data, executing image processing pipelines, and designing impactful result plots.
    
 ## Requirements
-<Add computational/knowledge requirements here>
-
-<If a unix terminal is needed, include instructions to download it on windows>
-We will be using the unix terminal to run our analyses. so be sure you have access to one. 
-* Mac OS and any linux distribution will have a terminal already
-    * Mac OS: search for terminal in your spotlight search
-* Windows users: 
-    * Option 1: Download a [unix subsystem (WSL)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview) **recommended
-    * Option 2: Download [MobaXterm](https://mobaxterm.mobatek.net/)
+1.	Students must have MATLAB installed and functioning on their laptop.
+2.	Students must have installed the Image Processing Toolbox in MATLAB.
+3.	Students are expected to have a basic level of understanding of programming concepts (ex. syntax, writing and running a script, variables, for loops, if/else statements, creating and calling functions, etc.).
    
-## Sofware <List of software that will be used during the workshop>
+## Software <List of software that will be used during the workshop>
 * [Software1](link to installation instructions)
 * [Software2](link to installation instructions)
 * Instructions to open colab, Rlibraries, etc.
