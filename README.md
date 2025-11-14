@@ -1,4 +1,4 @@
-# Workshop name
+# Image Processing in MATLAB Workshop
 
 ## Overview
 This workshop is designed for participants who have a foundational understanding of programming and are interested in learning about image processing in MATLAB. The workshop will cover working with image data, segmenting and performing structural analyses on features of interest, and visualizing analysis results. By the end of this hands-on experience, participants will have a strong understanding of manipulating image data, executing image processing pipelines, and designing impactful result plots.
