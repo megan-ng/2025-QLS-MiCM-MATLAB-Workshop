@@ -9,7 +9,7 @@ This workshop is designed for participants who have a foundational understanding
 3.	Students are expected to have a basic level of understanding of programming concepts (ex. syntax, writing and running a script, variables, for loops, if/else statements, creating and calling functions, etc.).
    
 ## Software <List of software that will be used during the workshop>
-* [Software1](link to installation instructions)
+* [(https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)]
 * [Software2](link to installation instructions)
 * Instructions to open colab, Rlibraries, etc.
    
